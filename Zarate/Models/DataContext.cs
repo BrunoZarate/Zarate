@@ -12,5 +12,7 @@ namespace Zarate.Models
         {
                
         }
+
+        public System.Data.Entity.DbSet<Zarate.Models.Fairy> Fairies { get; set; }
     }
 }
