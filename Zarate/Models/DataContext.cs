@@ -10,7 +10,7 @@ namespace Zarate.Models
     {
         public DataContext(): base ("DefaultConnection")
         {
-
+               
         }
     }
 }
